@@ -24,11 +24,11 @@ Skills: JAVA/SQL / JS / HTML / CSS/AWS
 </h2> 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm  graduate of @Masai School
+- :computer: I'm  graduate of Masai School
 <!-- - :computer: I'm currently working @Masai School -->
 - :hourglass_flowing_sand:  Exploring Java and its Frameworks
 - :rocket: Always ready to collaborate on interesting and challenging projects
-- :man_technologist: Ex-CUSATian, Co-Founder Travethon-For the travelbugged
+- :man_technologist: Ex-RIETian
 - :dart: Living By: "Imagination is more important than Knowledge"
 - :heart: Problem Solver by heart  
 - :zap: Fun fact: I love playing football, traveling and cycling <br>
